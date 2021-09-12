@@ -1,0 +1,29 @@
+.root {
+    -fx-background-color: #ffff99;
+    -fx-font-family: "Verdana";
+}
+
+.button {
+    -fx-border-color: white;
+    -fx-border-radius: 15px;
+    -fx-background-color: #ffcc66;
+    -fx-background-radius: 15px;
+}
+
+.button:hover {
+    -fx-background-color: #ffaa00;
+}
+
+.button:pressed {
+    -fx-background-color: #e69900;
+}
+
+.board {
+    -fx-font-family: "Verdana";
+    -fx-font-size: 25px;
+    -fx-font-weight: bold;
+    -fx-border-color: black;
+    -fx-background-color: white;
+    -fx-border-radius: 5px;
+    -fx-background-radius: 5px;
+}
